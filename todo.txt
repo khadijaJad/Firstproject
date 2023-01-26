@@ -7,3 +7,5 @@ create s test cases
 
 more tasks added:
 create test plan and smoke test
+
+please create a report and send it back to me
