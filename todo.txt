@@ -4,3 +4,6 @@ i have some tasks that i want to assigne to you
 
 create a test data
 create s test cases
+
+more tasks added:
+create test plan and smoke test
